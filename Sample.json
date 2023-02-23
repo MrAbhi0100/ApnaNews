@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "Swiss bank UBS gets a boost from higher interest rates, beats expectations in fourth quarter - CNBC",
+            "description": "Swiss bank UBS reported $7.6 billion of  annual profit in full-year 2022, beating analyst expectations nearer to $7.3 billion.",
+            "url": "https://www.cnbc.com/2023/01/31/ubs-earnings-q4-and-fy-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107185664-1675067690765-gettyimages-1244209204-AFP_32M397Q.jpeg?v=1675144429&w=1920&h=1080",
+            "publishedAt": "2023-01-31T05:53:49Z",
+            "content": "UBS beat market expectations with its latest results on the back of lower expenses and higher interest rates.\r\nThe bank reported $1.7 billion of net income for the fourth quarter of last year, bringi… [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Super Bowl 2023: Five early bold predictions for Chiefs vs. Eagles, including a surprise MVP candidate - CBS Sports",
+            "description": "Five early bold predictions for Super Bowl LVII",
+            "url": "https://www.cbssports.com/nfl/news/super-bowl-2023-five-early-bold-predictions-for-chiefs-vs-eagles-including-a-surprise-mvp-candidate/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/30/eb416f4c-476c-47eb-bd87-5982e7f0e573/thumbnail/1200x675/081a0d3a7b826f9b530e4f508dc8ee80/cjgj.jpg",
+            "publishedAt": "2023-01-31T04:50:00Z",
+            "content": "Our Super Bowl LVII matchup is officially set, as the Kansas City Chiefs and Philadelphia Eagles will face off on Feb. 12 with NFL glory on the line. Both of these teams have separated themselves as … [+4636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9News.com KUSA"
+            },
+            "author": "Marshall Zelinger",
+            "title": "If you lower the heat by 1 degree, what does it do to your Xcel bill? - 9News.com KUSA",
+            "description": "Xcel Energy advises customers to lower their thermostats to save money. We found out what the change can really do for your bill.",
+            "url": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/xcel-bill-lower-heat-1-degree-colorado/73-2806c58b-24fa-48d4-bd7d-6185443652bf",
+            "urlToImage": "https://media.9news.com/assets/KUSA/images/e33ec0bf-2198-4595-808d-c1834c04db34/e33ec0bf-2198-4595-808d-c1834c04db34_1140x641.jpg",
+            "publishedAt": "2023-01-31T03:40:00Z",
+            "content": "DENVER It will be below zero overnight into Tuesday.\r\nA night where Xcel Energy encourages customers to lower your thermostat a few degrees, ideally to 68 degrees or lower, so that customers can save… [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "The Tragic Toll: COVID-19 Is a Leading Cause of Death in Children and Young People in the U.S. - SciTechDaily",
+            "description": "Between August 2021 and July 2022, COVID-19 was a leading cause of death in children and young people in the US, ranking eighth overall. COVID-19 was the top cause of death in children from an infectious disease, in the same period. Deaths in children from CO…",
+            "url": "https://scitechdaily.com/the-tragic-toll-covid-19-is-a-leading-cause-of-death-in-children-and-young-people-in-the-u-s/",
+            "urlToImage": "https://scitechdaily.com/images/COVID-19-Deaths-Timeseries.png",
+            "publishedAt": "2023-01-31T03:32:40Z",
+            "content": "ByUniversity of OxfordJanuary 30, 2023\r\nMonthly number of deaths in the US of children and young people (aged 0-19), where COVID-19 was listed as the cause of death on the death certificate. Credit: … [+9187 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Western allies differ over jets for Ukraine as Russia claims gains - Reuters",
+            "description": "Ukraine's defence minister is expected in Paris on Tuesday to meet President Emmanuel Macron amid a debate among Kyiv's allies over whether to provide fighter jets for its war against Russia, after U.S. President Joe Biden ruled out giving F-16s.",
+            "url": "https://www.reuters.com/world/europe/biden-says-no-f-16s-ukraine-russia-claims-gains-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/WcjjYRJmGzcnYZ4Hw7ACtIkWf_4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OJVACH2ZAJOYBGRW6YORX2INO4.jpg",
+            "publishedAt": "2023-01-31T03:32:00Z",
+            "content": "KYIV, Jan 31 (Reuters) - Ukraine's defence minister is expected in Paris on Tuesday to meet President Emmanuel Macron amid a debate among Kyiv's allies over whether to provide fighter jets for its wa… [+5083 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Cheyenne Haslett",
+            "title": "Biden administration will end COVID-19 emergencies on May 11 - ABC News",
+            "description": "The change will affect Medicaid enrollees -- and other health care costs",
+            "url": "https://abcnews.go.com/Health/biden-administration-end-covid-19-emergencies-11/story?id=96335640",
+            "urlToImage": "https://s.abcnews.com/images/Politics/joe-biden-ap-gmh-230130_1675120192462_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-01-31T03:22:30Z",
+            "content": "The Biden administration will end both the COVID-19 national emergency and public health emergency on May 11, the White House informed Congress on Monday night.\r\nThe current public health emergency i… [+3798 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson",
+            "title": "Biden says U.S. won't be providing F-16s to Ukraine - CBS News",
+            "description": "U.S. officials hadn't before closed off that possibility.",
+            "url": "https://www.cbsnews.com/news/ukraine-f16s-biden-says-today-us-wont-provide/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2020/07/02/36b7fffc-ff3e-4273-9a6a-eaf41324989d/thumbnail/1200x630/1a6b2b7fcc5343dc9e72400fd56e87e4/f-16-fighter-jets.jpg",
+            "publishedAt": "2023-01-31T03:01:00Z",
+            "content": "President Joe Biden said Monday that the U.S. won't be providing F-16 fighter jets to Ukraine, appearing to reject a key request from the country as it fends off Russian aggression.\r\nKyiv has made it… [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "‘Surprisingly resilient’: IMF lifts global growth forecasts - Al Jazeera English",
+            "description": "Fund says demand in the US and Europe has been stronger than expected, and that only the UK faces a recession.",
+            "url": "https://www.aljazeera.com/economy/2023/1/31/surprisingly-resilient-imf-lifts-global-growth-forecasts",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/01/AP23030815831385.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-01-31T02:44:43Z",
+            "content": "The International Monetary Fund (IMF) has raised its 2023 global growth outlook slightly due to surprisingly resilient demand in the United States and Europe and the reopening of Chinas economy after… [+4956 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, Mark Morales, Holly Yan, Nick Valencia",
+            "title": "3 fire personnel are terminated and 2 other Memphis officers were removed from duty over Tyre Nichols' deadly beating, officials say - CNN",
+            "description": "Fallout from the deadly police beating of Black motorist Tyre Nichols now includes the firing of three Memphis Fire Department personnel, and an announcement that seven police officers were removed from their duties, as critics nationwide call for police refo…",
+            "url": "https://www.cnn.com/2023/01/30/us/tyre-nichols-protests-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230129140106-12-nichols-video-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-31T01:17:00Z",
+            "content": "Editors Note: This article contains graphic videos and descriptions of violence.\r\nFallout from the deadly police beating of Black motorist Tyre Nichols now includes the firing of three Memphis Fire D… [+13142 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ford to cut prices of Mustang Mach-E, following Tesla's lead - Reuters",
+            "description": "Ford Motor Co <a href=\"https://www.reuters.com/companies/F.N\" target=\"_blank\">(F.N)</a> on Monday cut prices of its electric crossover SUV Mustang Mach-E by as much as $5,900 per vehicle, weeks after rival Tesla Inc <a href=\"https://www.reuters.com/companies/…",
+            "url": "https://www.reuters.com/business/autos-transportation/ford-cuts-price-mustang-mach-e-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/28193HrvgsmzaymhnEsEgw24nmc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/25LO4KW3FBNAXOIUUJ5QDCUL2Q.jpg",
+            "publishedAt": "2023-01-31T00:45:00Z",
+            "content": "Jan 30 (Reuters) - Ford Motor Co (F.N) on Monday cut prices of its electric crossover SUV Mustang Mach-E by as much as $5,900 per vehicle, weeks after rival Tesla Inc (TSLA.O) slashed prices globally… [+2582 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Mario Parker and Zoe Tillman",
+            "title": "Trump Sues Journalist Bob Woodward for Releasing Interview Recordings - Yahoo News",
+            "description": "(Bloomberg) -- Former President Donald Trump is suing journalist Bob Woodward for releasing recordings of interviews that he gave to the journalist in 2019...",
+            "url": "https://news.yahoo.com/trump-sues-journalist-bob-woodward-210201503.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VznkLmLJV.VTbNlI1ACmew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_politics_602/7b2cbb2bb0113d8e817a9e8615eaee09",
+            "publishedAt": "2023-01-31T00:09:00Z",
+            "content": "(Bloomberg) -- Former President Donald Trump is suing journalist Bob Woodward for releasing recordings of interviews that he gave to the journalist in 2019 and 2020, claiming he never agreed to those… [+4676 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Scott Thompson",
+            "title": "Brock Purdy suffered 'complete tear' of UCL in NFC Championship loss to Eagles: report - Fox News",
+            "description": "The San Francisco 49ers' fears became a reality on Monday, as furthering testing on quarterback Brock Purdy showed a 'complete tear' of his UCL following the NFC Championship loss.",
+            "url": "https://www.foxnews.com/sports/brock-purdy-suffered-complete-tear-ucl-nfc-championship-loss-eagles",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Brock-Purdy21.jpg",
+            "publishedAt": "2023-01-30T23:53:00Z",
+            "content": "After further testing, the San Francisco 49ers' fears became a reality, as quarterback Brock Purdy has a \"complete tear\" of the UCL in his throwing elbow, according to NFL Network.\r\nInitial tests aft… [+3984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BuzzFeed News"
+            },
+            "author": "Amanda Gardner",
+            "title": "Here's What The Cordyceps Fungus Is Like In Real Life, According to Scientists - BuzzFeed News",
+            "description": "“For decades, science fiction writers have taken basic ideas to an extreme. That’s part of the fun.”",
+            "url": "https://www.buzzfeednews.com/article/amandagardner/cordyceps-last-of-us-zombie-fungus",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-01/30/22/asset/c2a066eb4b29/sub-buzz-1330-1675117074-19.jpg?crop=627:328;270,17%26downsize=1250:*",
+            "publishedAt": "2023-01-30T23:45:32Z",
+            "content": "If were to believe HBOs zombie apocalypse series The Last of Us\r\n, the end of humankind comes via the tentacles of a creepy-looking, brain-infecting fungus called cordyceps.\r\nAs with so many terrifyi… [+5949 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tim Lister, Frederik Pleitgen, Konstantin Hak",
+            "title": "'The enemy is always looking for us': Hidden in the forest, Ukraine's drone operators are crucial to the eastern battle - CNN",
+            "description": "The pine forests near the city of Kreminna have become one of the hottest combat zones in the war in eastern Ukraine. Almost every weapon seems to be at work here -- but perhaps the most important is the smallest: the reconnaissance drone.",
+            "url": "https://www.cnn.com/2023/01/30/europe/ukraine-drone-operators-forest-kreminna-intl-cmd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230130155006-04-ukraine-drone-operators-kremmina.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-30T23:43:00Z",
+            "content": "Near Kreminna, UkraineCNN\r\n  — \r\nThe pine forests near the city of Kreminna have become one of the hottest combat zones in the war in eastern Ukraine. Almost every weapon seems to be at work here, ar… [+6030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chargers.com"
+            },
+            "author": "Eric Smith",
+            "title": "5 Takeaways: What New OC Kellen Moore Brings to the Bolts - Chargers.com",
+            "description": "The Chargers on Monday agreed to terms with Moore, who is 34 years old but has plenty of recent success in the NFL",
+            "url": "https://www.chargers.com/news/5-takeaways-kellen-moore-chargers-offensive-coordinator",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/chargers/lvo8mzsu5k2odibytrga",
+            "publishedAt": "2023-01-30T23:37:35Z",
+            "content": "2. Moore's offenses have been elite\r\nAlthough he's only 34 years old, Moore already has four seasons as an offensive coordinator on his resumé.\r\nAnd he helped guide one of the league's top offenses i… [+1389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Abbas assures US security ties with Israel only partially cut, can be restored - The Times of Israel",
+            "description": "PA president tells CIA chief announced freeze aimed at pushing Netanyahu to moderate settlement expansion, said to fear condemning Jerusalem attack would be 'political suicide'",
+            "url": "https://www.timesofisrael.com/abbas-assures-us-security-ties-with-israel-only-partially-cut-can-be-restored/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/01/Screen-Shot-2023-01-30-at-2.57.30-PM-1024x640.jpg",
+            "publishedAt": "2023-01-30T23:30:04Z",
+            "content": "Palestinian Authority President Mahmoud Abbas told CIA director William Burns Sunday that parts of a security coordination apparatus with Israel have remained in place, despite announcing a total fre… [+3756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Manhattan grand jury reportedly hearing evidence in Trump hush money case - CBS New York",
+            "description": "The New York Times reports it could lay the groundwork for possible criminal charges against the former president.",
+            "url": "https://www.youtube.com/watch?v=vg0ZS2PAkBo",
+            "urlToImage": "https://i.ytimg.com/vi/vg0ZS2PAkBo/maxresdefault.jpg",
+            "publishedAt": "2023-01-30T23:29:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Audrey Conklin",
+            "title": "California doctor who drove Tesla off cliff with wife, 2 kids inside held in jail without bail: report - Fox News",
+            "description": "Dharmesh Patel, the California man accused of driving his wife and two children off a cliff on Jan. 2, has been transported from the hospital to a San Mateo County jail.",
+            "url": "https://www.foxnews.com/us/california-man-who-drove-tesla-off-cliff-wife-2-kids-inside-transported-jail-hospital",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/AP23028088673720-1.jpg",
+            "publishedAt": "2023-01-30T23:29:00Z",
+            "content": "A California man accused of intentionally driving a Tesla off a cliff on Jan. 2 with his wife and two children inside the vehicle has been transported from a hospital to a San Mateo County jail.\r\nDha… [+2956 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deseret News"
+            },
+            "author": "Katie McKellar",
+            "title": "LGBTQ groups sue Utah over ban on transgender surgeries, treatments - Deseret News",
+            "description": "The ACLU of Utah and the National Center for Lesbian Rights a filing a lawsuit over a new Utah law banning transgender surgeries, puberty blockers and cross-sex hormones for children and teens.",
+            "url": "https://www.deseret.com/utah/2023/1/30/23578529/transgender-gender-affirming-care-surgeries-lawsuit-aclu",
+            "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/20b33a5/2147483647/strip/true/crop/3000x1713+0+135/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FlzNylsYHa5kUn5yLEA54SrstMOA%3D%2F0x0%3A3000x1982%2F3000x1982%2Ffilters%3Afocal%281500x991%3A1501x992%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24397035%2Fmerlin_2959838.jpg",
+            "publishedAt": "2023-01-30T23:17:00Z",
+            "content": "Its only been a few days since Utah Gov. Spencer Cox signed a bill to ban transgender surgeries for Utah children and teens, as well as prohibit new hormonal treatments for minors and the new law is … [+6626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFLA"
+            },
+            "author": "Katlyn Brieskorn, Dylan Abad",
+            "title": "Lakeland shooting leaves 10 injured, police investigating - WFLA",
+            "description": "Lakeland police are investigating after multiple people were shot on Monday afternoon.",
+            "url": "https://www.wfla.com/news/polk-county/9-hurt-in-lakeland-shooting/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2023/01/Lakeland-shooting.jpg?w=1280",
+            "publishedAt": "2023-01-30T22:52:21Z",
+            "content": "LAKELAND, Fla. (WFLA) Lakeland police are investigating a shooting that left 10 people injured Monday afternoon.\r\nInvestigators said the shooting happened near Iowa Avenue North and Plum Street aroun… [+1327 chars]"
+        }
+    ]
+}

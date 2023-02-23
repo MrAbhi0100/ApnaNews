@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Jasmyn Wimbish",
+            "title": "LeBron James breaks Kareem Abdul-Jabbar's all-time NBA scoring record with 38-point performance vs. Thunder - CBS Sports",
+            "description": "The NBA has a new all-time leading scorer",
+            "url": "https://www.cbssports.com/nba/news/lebron-james-breaks-kareem-abdul-jabbars-all-time-nba-scoring-record-with-38-point-performance-vs-thunder/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/02/08/0a910cbc-4cd5-4a5c-8e56-d8cf21a2f04a/thumbnail/1200x675/4f97ff2017ad8ff9056bc9cdfd009a28/lebron-record-usatsi-2.png",
+            "publishedAt": "2023-02-08T12:34:00Z",
+            "content": "Lakers superstar LeBron James became the NBA's all-time leading scorer Tuesday night after draining a stepback elbow jumper in the third quarter to pass Kareem Abdul-Jabbar. It took just 26 minutes f… [+849 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jordan Novet, Jonathan Vanian",
+            "title": "Microsoft's new Bing chatbot is fun but sometimes more cautious than ChatGPT - CNBC",
+            "description": "Microsoft is starting to roll out its new Bing experience containing a chatbot powered by OpenAI. It's sometimes unwilling to do things that ChatGPT will.",
+            "url": "https://www.cnbc.com/2023/02/08/microsoft-bing-vs-openai-chatgpt.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190547-1675807103673-gettyimages-1246872792-AFP_338Q8GY.jpeg?v=1675859272&w=1920&h=1080",
+            "publishedAt": "2023-02-08T12:27:52Z",
+            "content": "An attendee interacts with the AI-powered Microsoft Bing search engine and Edge browser during an event at the company's headquarters in Redmond, Washington, US, on Tuesday, Feb. 7, 2023. Microsoft u… [+6838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Video Games Chronicle"
+            },
+            "author": "Chris Scullion",
+            "title": "UK regulator suggests removing Call of Duty from Microsoft's Activision Blizzard acquisition | VGC - Video Games Chronicle",
+            "description": "In its provisional conclusion, the CMA says Xbox's Activision deal 'could harm'",
+            "url": "https://www.videogameschronicle.com/news/uk-regulator-suggests-removing-call-of-duty-from-microsofts-activision-blizzard-acquisition/",
+            "urlToImage": "https://www.videogameschronicle.com/files/2019/04/activision-blizzard-hq.jpg",
+            "publishedAt": "2023-02-08T12:21:42Z",
+            "content": "The UK’s Competition and Markets Authority (CMA) has published its provisional conclusion on Microsoft‘s proposed acquisition of Activision Blizzard, and proposed that Call of Duty be removed from th… [+6322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "Fast-food giant Yum Brands tops expectations, led by strength in Taco Bell - CNBC",
+            "description": "Taco Bell reported same-store sales growth of 11% for the fourth quarter.",
+            "url": "https://www.cnbc.com/2023/02/08/yum-brands-yum-earnings-q4-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106834618-1612362484437-gettyimages-1198751148-YUM-BRANDS-EARNS.jpg?v=1675860594&w=1920&h=1080",
+            "publishedAt": "2023-02-08T12:11:06Z",
+            "content": "Yum Brands on Wednesday reported quarterly earnings and revenue that topped analysts' expectations, fueled by strong same-store sales growth at Taco Bell.\r\nOverall, the restaurant giant saw strong U.… [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Romney tells embattled Republican George Santos he 'shouldn't be in Congress' - Reuters",
+            "description": "U.S. Senator Mitt Romney told embattled fellow Republican Representative George Santos on Tuesday that should not be in Congress and shouldn't have taken a central seat at President Joe Biden's State of the Union address.",
+            "url": "https://www.reuters.com/world/us/romney-tells-embattled-republican-george-santos-he-shouldnt-be-congress-2023-02-08/",
+            "urlToImage": "https://www.reuters.com/resizer/1tqYuVV3oe49RobZ5_qk0GhZTBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/22ALNELX2ZLD5BDXFJBBB2M5FQ.jpg",
+            "publishedAt": "2023-02-08T11:16:00Z",
+            "content": "WASHINGTON, Feb 7 (Reuters) - U.S. Senator Mitt Romney told embattled fellow Republican Representative George Santos on Tuesday that should not be in Congress and shouldn't have taken a central seat … [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Erdogan visits earthquake-hit south as anger grows over rescue effort - Reuters",
+            "description": "Turkish President Tayyip Erdogan visited southern Turkey on Wednesday to see first-hand the destruction wrought by a massive earthquake as anger grew among local people over what they said was a slow government response to the rescue and relief effort.",
+            "url": "https://www.reuters.com/world/middle-east/death-toll-syria-turkey-quake-rises-more-than-8700-2023-02-08/",
+            "urlToImage": "https://www.reuters.com/resizer/til9CF22-k_iBIrJ6VfXGvZlswk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2T2KZWGCVNPBBONTQ3FMN3X6JM.jpg",
+            "publishedAt": "2023-02-08T11:13:00Z",
+            "content": "KAHRAMANMARAS/ANTAKYA, Turkey, Feb 8 (Reuters) - Turkish President Tayyip Erdogan visited southern Turkey on Wednesday to see first-hand the destruction wrought by a massive earthquake as anger grew … [+5341 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong",
+            "title": "New Zealand seizes 3.5 tons of cocaine in nation’s largest bust - The Washington Post",
+            "description": "The 81 bales of cocaine would have been enough to supply the Australian market for a year or New Zealand’s for three decades, police said.",
+            "url": "https://www.washingtonpost.com/world/2023/02/08/new-zealand-cocaine-bust/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-08-2023/t_dc233c80c1d34304a4d636182235bb6a_name_NZ_cocaine.png&w=1440",
+            "publishedAt": "2023-02-08T10:45:00Z",
+            "content": "Comment on this story\r\nNew Zealand authorities have seized more than three tons of cocaine that was wrapped into 81 bales and cached at a floating transit point in the middle of the Pacific Ocean, in… [+2711 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Shares rise, dollar wobbles after market sees Powell comments as dovish - Reuters",
+            "description": "Shares globally jumped and most currencies rose against the dollar on Wednesday, as investors discerned a dovish tone in comments from Fed Chair Jerome Powell, though a policy tweak by the ECB meant European bonds sat out the rally.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-02-08/",
+            "urlToImage": "https://www.reuters.com/resizer/3F0hif7_5Ms0pDeyyr7ppAj20f0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G7HFRVB6JFPYXHCIAHP5OQ6W3I.jpg",
+            "publishedAt": "2023-02-08T09:56:00Z",
+            "content": "LONDON/SINGAPORE, Feb 8 (Reuters) - Shares globally jumped and most currencies rose against the dollar on Wednesday, as investors discerned a dovish tone in comments from Fed Chair Jerome Powell, tho… [+3622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Islam Makhachev Reacts To Dana White's 'Mistake,' Ready To Take No. 1 P4P Spot | UFC 284 - MMA Junkie",
+            "description": "UFC lightweight champ Islam Makhachev talks to MMA Junkie's Mike Bohn at UFC 284 ahead of his title defense vs. Alexander Volkanovski Full event coverage: ht...",
+            "url": "https://www.youtube.com/watch?v=z9bqUucj9Mg",
+            "urlToImage": "https://i.ytimg.com/vi/z9bqUucj9Mg/maxresdefault.jpg",
+            "publishedAt": "2023-02-08T07:36:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jessica Chasmar",
+            "title": "Biden’s state of the Union address: Top 5 moments - Fox News",
+            "description": "Here are Fox News Digital's top five moments from President Biden's second State of the Union address Tuesday night.",
+            "url": "https://www.foxnews.com/politics/bidens-state-union-address-top-5-moments",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/GettyImages-1463971699.jpg",
+            "publishedAt": "2023-02-08T07:00:00Z",
+            "content": "President Biden gave his second State of the Union address that acted as a soft launch for his 2024 presidential bid Tuesday night, earning cheers from Democrats for his calls to ban \"assault weapons… [+3836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "SocGen reports 64% slide in annual profits but beats market expectations - CNBC",
+            "description": "Societe Generale on Wednesday reported a 64% drop in annual net profits for 2022 and said the new year will be challenging.",
+            "url": "https://www.cnbc.com/2023/02/08/socgen-earnings-q4-2022-.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106807014-1607340597417-gettyimages-1178669044-AFP_1LT603.jpeg?v=1675836463&w=1920&h=1080",
+            "publishedAt": "2023-02-08T06:07:43Z",
+            "content": "Societe Generale on Wednesday reported a 64% drop in annual net profits for 2022, weighed on by lower activity in its domestic banking unit, currency effects and increased operating expenses.\r\nThe Fr… [+2650 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBSBoston.com Staff",
+            "title": "Duxbury mother Lindsay Clancy 'planned these murders,' prosecutors allege - CBS Boston",
+            "description": "Prosecutors alleged Tuesday that Lindsay Clancy, a Duxbury mother accused of killing her three kids​, planned the murders in advance.",
+            "url": "https://www.cbsnews.com/boston/news/duxbury-mother-lindsay-clancy-murder-charges-arraignment/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/07/84a5f28d-867a-465c-a116-69da77dad639/thumbnail/1200x630/11d4cbe7eb4c1ff72eb3c923d6d409cc/lindsay-clancy-arraignment.jpg",
+            "publishedAt": "2023-02-08T04:24:00Z",
+            "content": "PLYMOUTH – Prosecutors alleged Tuesday that Lindsay Clancy, a Duxbury mother accused of killing her three kids, planned the murders in advance and was of sound mind at the time of their deaths. Clanc… [+4207 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Dan Wetzel",
+            "title": "Super Bowl 2023: Tom Brady remains Plan A for Fox. Yet Greg Olsen has network admitting 'certain amount of regret' - Yahoo Sports",
+            "description": "Brady’s announcement that he wouldn’t start in 2023 eased the immediate dread for Olsen that the Super Bowl would be his last as the lead analyst.",
+            "url": "https://sports.yahoo.com/super-bowl-2023-tom-brady-remains-plan-a-for-fox-yet-greg-olsen-has-network-admitting-certain-amount-of-regret-040345347.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_uHcIJmPhY9QiZ0pybJrOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/667332e0-a763-11ed-a17f-400a9ed5d864",
+            "publishedAt": "2023-02-08T04:03:00Z",
+            "content": "PHOENIX Last May, Tom Brady agreed to a 10-year, $375 million contract to become Fox Sports lead NFL analyst immediately following his playing career.\r\nThe move gave Fox a burst of future star power … [+5551 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Bo Lillis, Jeremy Herb, Josh Campbell, Zachary Cohen, Kylie Atwood, Natasha Bertrand",
+            "title": "Spy balloon part of a broader Chinese military surveillance operation, US intel sources say - CNN",
+            "description": "US intelligence officials believe that the recently recovered Chinese spy balloon is part of an extensive surveillance program run by the Chinese military, according to multiple American officials familiar with the intelligence.",
+            "url": "https://www.cnn.com/2023/02/07/politics/spy-balloon/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230207102801-01-spy-balloon-recovery.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-08T03:30:00Z",
+            "content": "US intelligence officials believe that the recently recovered Chinese spy balloon is part of an extensive surveillance program run by the Chinese military, according to multiple American officials fa… [+6897 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin O'Kane",
+            "title": "Rep. Marjorie Taylor Greene carried a white balloon ahead of the State of the Union - CBS News",
+            "description": "Greene's stunt was meant to express concern about the suspected Chinese spy balloon that was spotted over the United States and shot down in the Atlantic Ocean.",
+            "url": "https://www.cbsnews.com/news/state-of-the-union-rep-marjorie-taylor-greene-carries-white-balloon-chinese-spy-balloon-shot-down/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/08/e56de6c6-0d79-4369-a4b3-e40d405be721/thumbnail/1200x630/7fd593cbceb00ac024d5833539902e04/greene-balloon.jpg",
+            "publishedAt": "2023-02-08T03:20:00Z",
+            "content": "Rep. Marjorie Taylor Greene carried a white balloon around Capitol Hill ahead of the State of the Union on Tuesday — a stunt meant to express concern about the suspected Chinese spy balloon that was … [+4344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Christy Piña",
+            "title": "Ashton Kutcher Addresses Awkward Reese Witherspoon Carpet Photos: “The Rumor Is We Don’t Like Each Other” - Hollywood Reporter",
+            "description": "The 'Your Place or Mine' star explained that posing on red carpets is a losing battle for him.",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/ashton-kutcher-awkward-reese-witherspoon-carpet-photos-1235320275/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/02/Ashton-Kutcher-Reese-Witherspoon-Getty-H-2023.jpg?w=1024",
+            "publishedAt": "2023-02-08T02:52:34Z",
+            "content": "Ashton Kutcher finally addressed all the chatter surrounding his awkward Your Place or Mine red carpet photos with Reese Witherspoon. \r\nAt the Netflix rom-com’s premiere in Los Angeles on Feb. 2, Kut… [+1869 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Timi Cantisano",
+            "title": "Samsung Galaxy S23 Ultra may offer bypass charging; great for reducing heat and optimizing battery health - XDA Developers",
+            "description": "Bypass charging can be a great feature, reducing heat buildup and extending the life of the phone's internal battery.",
+            "url": "https://www.xda-developers.com/samsung-galaxy-s23-ultra-bypass-charging-mode/",
+            "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/01/samsung-galaxy-s23-ultra.jpeg",
+            "publishedAt": "2023-02-08T02:37:00Z",
+            "content": "We're still a little over a week away from the retail release of the Samsung Galaxy S23 series, but that doesn't mean units aren't out in the wild and being tinkered with. While the rest of us wait f… [+1660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Consequence.net"
+            },
+            "author": "Carys Anderson",
+            "title": "@midnight Reboot to Replace The Late Late Show with James Corden on CBS - Consequence",
+            "description": "The game show originally aired on Comedy Central from 2013 to 2017.",
+            "url": "https://consequence.net/2023/02/at-midnight-reboot-replace-the-late-late-show/",
+            "urlToImage": "https://consequence.net/wp-content/uploads/2023/02/@midnight-reboot-late-late-show.jpg?quality=80",
+            "publishedAt": "2023-02-08T02:27:00Z",
+            "content": "As James Corden prepares to exit The Late Late Show later this year, CBS has found his replacement, and it’s not just a new host: It’s a reboot of @midnight, the game show originally hosted by Chris … [+1107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Paige Gawley",
+            "title": "'Sister Wives' Star Christine Brown Says She's Exclusively Dating a Man After Kody Split - Entertainment Tonight",
+            "description": "The reality star split from Kody Brown in 2021 after 25 years of marriage.",
+            "url": "https://www.etonline.com/sister-wives-star-christine-brown-says-shes-exclusively-dating-a-man-after-kody-split-198776",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2022-12/Screen%20Shot%202022-12-16%20at%2010.49.34%20AM.png?h=e000b7e1&itok=lAfbIMRy",
+            "publishedAt": "2023-02-08T01:40:40Z",
+            "content": "Christine Brown is in an exclusive relationship! More than a year after her split from Kody Brown, the 50-year-old Sister Wives star took to her Instagram Story to reveal her new romance.\r\n\"I just ha… [+2120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ines Ferré",
+            "title": "Bed Bath & Beyond stock sinks 48% on plans to raise $1B - Yahoo Finance",
+            "description": "Bed Bath & Beyond's (BBBY) stock sank more than 45% on Tuesday, a day after the embattled retailer announced an equity offering to raise as much as $1.025...",
+            "url": "https://finance.yahoo.com/news/bed-bath--beyond-stock-sinks-48-on-plans-to-raise-1b-185605524.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Aeop.CayMjWgFjD0_Y3vGA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/34a183b0-a73c-11ed-bffb-2a155ecfed4c",
+            "publishedAt": "2023-02-08T01:39:00Z",
+            "content": "Bed Bath &amp; Beyond's (BBBY) stock sank 48% on Tuesday, a day after the embattled retailer announced an equity offering to raise as much as $1.025 billion.\r\nOne analyst labeled the company's move a… [+2236 chars]"
+        }
+    ]
+}
